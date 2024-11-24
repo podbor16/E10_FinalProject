@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "podbor2001" }
+  ],
+  "comments": [
+    { "id": 1, "body": "first comment", "postId": 1 }
+  ]
+}
